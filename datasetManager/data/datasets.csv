@@ -1,0 +1,4 @@
+nom,domaine,nb_lignes,nb_colonnes,taille_mo,public,format
+Titanic,Transport,891,12,48.0,True,csv
+Ventes,Finance,452,10,45.0,True,csv
+Recoltes,Agriculture,784,5,36.0,True,json
